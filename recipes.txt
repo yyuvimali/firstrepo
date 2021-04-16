@@ -8,4 +8,6 @@ pasta
 paneer
 pizaa
 
+ice-cream
+sweets
 thank you....
